@@ -1,3 +1,4 @@
 # House_Price_Prediction.hackveda
 I learnt the python and machine learning skills through the hackveda online one2one courses proggram. I got a hang of ML and wanted to learn its practical application through its project models. So i created this project named House_prediction_model. where i used the knowledge gained in the data science and machine learning course of hackveda. I took in a data set of few house prices based upon their different attributes like no. of bedrroms, no. of bathrooms, parking area, etc. I used the SEMMA model to use the data set in order to create a prediction model using Machine Learning. Here is the fully working backend code of my house prediction model.
-I would like to thank Hackveda founder and CEO, Mr. Devanshu Shukla for providing me the oppurtuinty to gain knowledge about the skillset i used to develop this code.
+I deployed my app using the heroku website using streamlit and link of the same is mentioned below
+https://house-price--prediction.herokuapp.com/
